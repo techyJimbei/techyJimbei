@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Question Paper Prediction app](https://github.com/techyJimbei/Qbet.git)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://techyjimbei.github.io/portfolio-website/](https://techyjimbei.github.io/portfolio-website/)
 
