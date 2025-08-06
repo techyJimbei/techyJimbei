@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techyjimbei&label=Profile%20views&color=0e75b6&style=flat" alt="techyjimbei" /> </p>
 
-- 🔭 I’m currently working on [Question Paper Prediction app](https://github.com/techyJimbei/Qbet.git)
+- 🔭 I’m currently working on [Antique Bidding App](https://github.com/techyJimbei/PawnBet.git)
 
 - 🌱 I’m currently learning **SpringBoot**
 
