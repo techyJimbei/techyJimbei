@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://techyjimbei.github.io/portfolio-website/)
 - 💬 Ask me about **Kotlin, Android Development, Spring Boot, REST APIs, Machine Learning**
 - 📫 Reach me at **ishrut.malviya29@gmail.com**
-- 📄 View my [Resume](https://drive.google.com/file/d/11dbpmbSjPfRPsbTyABPoJartPNA8i75-/view?usp=drive_link)
+- 📄 View my [Resume](https://drive.google.com/file/d/1ZZf3bz36333cA5_BVMx3ns4y3swHtPAC/view?usp=drive_link)
 
 ## 💼 Professional Experience
 
