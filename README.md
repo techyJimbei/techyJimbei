@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://techyjimbei.github.io/portfolio-website/)
 - 💬 Ask me about **Kotlin, Android Development, Spring Boot, REST APIs, Machine Learning**
 - 📫 Reach me at **ishrut.malviya29@gmail.com**
-- 📄 View my [Resume](https://drive.google.com/file/d/1ZZf3bz36333cA5_BVMx3ns4y3swHtPAC/view?usp=drive_link)
+- 📄 View my [Resume](https://drive.google.com/file/d/11dbpmbSjPfRPsbTyABPoJartPNA8i75-/view?usp=drive_link)
 
 ## 💼 Professional Experience
 
@@ -46,17 +46,20 @@ Social productivity app with gamification features
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frameworks & Technologies:**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,11 +94,15 @@ Social productivity app with gamification features
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyjimbei&show_icons=true&locale=en&layout=compact&theme=radical" alt="techyjimbei" /></p>
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=techyjimbei&show_icons=true&locale=en&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techyjimbei&show_icons=true&locale=en&theme=radical" alt="techyjimbei" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techyjimbei&show_icons=true&locale=en&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techyjimbei&theme=radical" alt="techyjimbei" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techyjimbei&theme=radical)
+
+</div>
 
 ---
 
