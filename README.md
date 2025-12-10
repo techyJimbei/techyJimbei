@@ -1,31 +1,107 @@
 <h1 align="center">Hi 👋, I'm Shruti Malviya</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate Full-Stack Android Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techyjimbei&label=Profile%20views&color=0e75b6&style=flat" alt="techyjimbei" /> </p>
 
-- 🔭 I’m currently working on [Antique Bidding App](https://github.com/techyJimbei/PawnBet.git)
+## 🚀 About Me
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🎓 Computer Science Engineering student at **Shri Vaishnav Vidyapeeth Vishwavidyalaya** (CGPA: 8.0)
+- 🔭 Currently working on [AgriSense - AI-Powered Agricultural Assistant](https://github.com/techyJimbei/AgriSense)
+- 🌱 Learning **Spring Boot, Machine Learning, and Advanced Android Development**
+- 💼 Former **Computer Vision & ML Intern** at Cummins Turbo Technologies
+- 👨‍💻 All of my projects are available at [My Portfolio](https://techyjimbei.github.io/portfolio-website/)
+- 💬 Ask me about **Kotlin, Android Development, Spring Boot, REST APIs, Machine Learning**
+- 📫 Reach me at **ishrut.malviya29@gmail.com**
+- 📄 View my [Resume](https://drive.google.com/file/d/11dbpmbSjPfRPsbTyABPoJartPNA8i75-/view?usp=drive_link)
 
-- 👨‍💻 All of my projects are available at [https://techyjimbei.github.io/portfolio-website/](https://techyjimbei.github.io/portfolio-website/)
+## 💼 Professional Experience
 
-- 💬 Ask me about **Kotlin, Springboot, React, Blender**
+**Computer Vision and Machine Learning Intern** | Cummins Turbo Technologies  
+*June 2024 - July 2024*
+- Built real-time **object detection system** for machinery parts using **YOLOv9**
+- Utilized **Python, OpenCV, and Roboflow** for model training and image processing
+- Deployed solution with **Flask** for industrial usability
 
-- 📫 How to reach me **ishrut.malviya29@gmail.com**
+## 🛠️ Featured Projects
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11dbpmbSjPfRPsbTyABPoJartPNA8i75-/view?usp=drive_link](https://drive.google.com/file/d/11dbpmbSjPfRPsbTyABPoJartPNA8i75-/view?usp=drive_link)
+### [AgriSense - AI Agricultural Assistant](https://github.com/techyJimbei/AgriSense)
+Full-stack Android app with **Gemini AI chatbot**, voice assistant, and **TensorFlow ML** for plant disease detection
+- **Tech Stack:** Kotlin, Jetpack Compose, Spring Boot, PostgreSQL, TensorFlow, Gemini AI
+- Features: Multilingual support, Mandi price tracking, weather predictions, soil analysis
 
-<h3 align="left">Connect with me:</h3>
+### [PawnBet - Online Auction App](https://github.com/techyJimbei/PawnBet-Frontend)
+Real-money betting platform for antiques and collectibles
+- **Tech Stack:** Kotlin, Jetpack Compose, Spring Boot, PostgreSQL, Stripe API
+- Features: JWT authentication, dynamic odds calculation, secure payment integration
+
+### [Momentum - Social Productivity App](https://github.com/techyJimbei/momentum)
+Social productivity app with gamification features
+- **Tech Stack:** Kotlin, Jetpack Compose, Android
+- Features: Task management, coin-based rewards, leaderboards, chat rooms
+
+## 🛠️ Technical Skills
+
+**Programming Languages:**  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Technologies:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Specializations:**
+- Object-Oriented Design
+- REST API Development
+- Machine Learning & Computer Vision
+- Android Development (Jetpack Compose)
+- Data Structures & Algorithms
+
+## 📚 Certifications
+
+- Android 14 and Kotlin Development - Udemy
+- Core JAVA Programming - NPTEL
+- Introduction to Artificial Intelligence and Machine Learning using Python - NPTEL
+- Soft Skills - NPTEL
+
+## 🤝 Connect with me
+
 <p align="left">
 <a href="https://linkedin.com/in/shrutymalviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutymalviya" height="30" width="40" /></a>
+<a href="https://github.com/techyJimbei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="techyjimbei" height="30" width="40" /></a>
 <a href="https://kaggle.com/shrutimalviya2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shrutimalviya2004" height="30" width="40" /></a>
-<a href="https://instagram.com/shrutymalviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutymalviya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shrutymalviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutymalviya" height="30" width="40" /></a>
+<a href="https://instagram.com/shrutymalviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutymalviya" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyjimbei&show_icons=true&locale=en&layout=compact" alt="techyjimbei" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyjimbei&show_icons=true&locale=en&layout=compact&theme=radical" alt="techyjimbei" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techyjimbei&" alt="techyjimbei" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techyjimbei&show_icons=true&locale=en&theme=radical" alt="techyjimbei" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techyjimbei&theme=radical" alt="techyjimbei" /></p>
+
+---
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
